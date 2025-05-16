@@ -18,7 +18,7 @@ Je suis développeur back-end.
 - **Autres** : Git, Linux, CI/CD
 ---
 
-## Mes Projets
+## 🚀 Projets
 
 ### Projet 1 - Portfolio personnel
 Un site web dynamique présentant mon parcours et mes projets.
