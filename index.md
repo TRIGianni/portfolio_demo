@@ -10,7 +10,13 @@ Je suis développeur back-end.
 - [GitHub](https://github.com/TRIGianni)
 - Email : [gianni.tricarico@heh.be](gianni.tricarico@heh.be)
 
---
+---
+**Compétences principales :**
+- **Langages** : Python, JavaScript, C, Java
+- **Frameworks & Outils** : React.js, Node.js, Docker, Spring Boot
+- **Bases de données** : PostgreSQL, MongoDB
+- **Autres** : Git, Linux, CI/CD
+---
 
 ## Mes Projets
 
